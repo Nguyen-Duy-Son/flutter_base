@@ -1,4 +1,4 @@
-package com.peopletray.app
+package com.flutterbase.app
 
 import io.flutter.embedding.android.FlutterActivity
 
